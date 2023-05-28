@@ -1,6 +1,5 @@
 # Project1-Gazebo
 
-Summary:
 This project aims to create a simulation world for Robot path planning and navigation using ROS and C++.
 
 Gazebo Environments Building:
