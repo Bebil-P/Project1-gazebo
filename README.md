@@ -20,7 +20,6 @@ The following image shows a wireframe model with joints, which is essential for 
 ## Gazebo World:
 
 The Gazebo world includes the building structure created using the building editor tool, two instances of the robot model, and features imported from the Gazebo online library. The world file is stored in the world directory.
-
 To learn how to import CAD models from SolidWorks into Gazebo, you can follow this tutorial: Importing CAD Models from SolidWorks.
 
 ## World Plugin:
