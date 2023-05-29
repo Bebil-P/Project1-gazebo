@@ -7,7 +7,7 @@ namespace gazebo
     public: WorldPluginMyRobot() : WorldPlugin()
             {
 		std::string name;
-              	std::cout<<("Welcome to Bebz World!\n");
+              	std::cout<<("Hello World!\n");
 	      	std::cout<<("Greetings\n");
  		std::cout<<("whats your name: \n");
 		std::cin >> name;
