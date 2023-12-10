@@ -7,6 +7,7 @@ The building is a single-floor structure with enough space for robots to navigat
 
 ![image](https://github.com/Bebil-P/Project1-Gazebo/assets/109389468/41e76172-10a0-4575-86c0-5f17dfd11b2a)
 
+Note: Building a larger world would not be recomended (more on this later)
 
 ## Robot Model:
 
