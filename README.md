@@ -25,4 +25,5 @@ To learn how to import CAD models from SolidWorks into Gazebo, you can follow th
 
 ## World Plugin:
 
-The world plugin is a C++ plugin that displays a welcome message. It is stored in the script directory. Additionally, there is a CMakeLists.txt file located in the main project directory.
+The world plugin is a C++ plugin that displays a welcome message. 
+It is stored in the script directory. Additionally, there is a CMakeLists.txt file located in the main project directory.
